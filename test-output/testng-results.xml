@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-06T21:35:39 GMT" name="Default suite" finished-at="2024-01-06T21:35:59 GMT" duration-ms="20068">
+    <groups>
+    </groups>
+    <test started-at="2024-01-06T21:35:39 GMT" name="Default test" finished-at="2024-01-06T21:35:59 GMT" duration-ms="20068">
+      <class name="TestNGbasics.annotations">
+        <test-method is-config="true" signature="Beformethod1()[pri:0, instance:TestNGbasics.annotations@76f7d241]" started-at="2024-01-06T21:35:38 GMT" name="Beformethod1" finished-at="2024-01-06T21:35:39 GMT" duration-ms="156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Beformethod1 -->
+        <test-method is-config="true" signature="Beformethod2()[pri:0, instance:TestNGbasics.annotations@76f7d241]" started-at="2024-01-06T21:35:39 GMT" name="Beformethod2" finished-at="2024-01-06T21:35:58 GMT" duration-ms="19755" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Beformethod2 -->
+        <test-method is-config="true" signature="launchbrowser()[pri:0, instance:TestNGbasics.annotations@76f7d241]" started-at="2024-01-06T21:35:58 GMT" name="launchbrowser" finished-at="2024-01-06T21:35:59 GMT" duration-ms="147" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+        <test-method is-config="true" signature="Beformethod4()[pri:0, instance:TestNGbasics.annotations@76f7d241]" started-at="2024-01-06T21:35:59 GMT" name="Beformethod4" finished-at="2024-01-06T21:35:59 GMT" duration-ms="127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Beformethod4 -->
+        <test-method signature="Test()[pri:0, instance:TestNGbasics.annotations@76f7d241]" started-at="2024-01-06T21:35:59 GMT" name="Test" finished-at="2024-01-06T21:35:59 GMT" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method is-config="true" signature="Aftermethod()[pri:0, instance:TestNGbasics.annotations@76f7d241]" started-at="2024-01-06T21:35:59 GMT" name="Aftermethod" finished-at="2024-01-06T21:35:59 GMT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Aftermethod -->
+        <test-method is-config="true" signature="AfterClass()[pri:0, instance:TestNGbasics.annotations@76f7d241]" started-at="2024-01-06T21:35:59 GMT" name="AfterClass" finished-at="2024-01-06T21:35:59 GMT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterClass -->
+        <test-method is-config="true" signature="Aftertest()[pri:0, instance:TestNGbasics.annotations@76f7d241]" started-at="2024-01-06T21:35:59 GMT" name="Aftertest" finished-at="2024-01-06T21:35:59 GMT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Aftertest -->
+        <test-method is-config="true" signature="AfterSuite()[pri:0, instance:TestNGbasics.annotations@76f7d241]" started-at="2024-01-06T21:35:59 GMT" name="AfterSuite" finished-at="2024-01-06T21:35:59 GMT" duration-ms="190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterSuite -->
+      </class> <!-- TestNGbasics.annotations -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
